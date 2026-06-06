@@ -23,7 +23,7 @@ Output
 Python · PyTorch · Hugging Face Diffusers · MediaPipe · OpenCV · PIL · Gradio
 
 ## Run it
-Open `virtual_tryon.ipynb` in Google Colab.  
+Open `virtual_tryon.ipynb` in Google Colab or for quick reference Open `https://nbviewer.org/github/Praj-maghiman/ai-virtual-tryon/blob/main/virtual_tryon.ipynb`.  
 Runtime → Change runtime type → T4 GPU  
 Run all cells.
 

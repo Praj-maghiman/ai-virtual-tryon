@@ -1,0 +1,10 @@
+torch
+diffusers>=0.21.0
+transformers
+accelerate
+mediapipe
+opencv-python
+Pillow
+gradio
+matplotlib
+numpy

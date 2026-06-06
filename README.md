@@ -12,9 +12,9 @@ Output
 ## Results
 | Prompt | Output |
 |--------|--------|
-| gold coin in palm | ![coin](assets/output_coin.png) |
+| gold coin in palm | ![coin](assets/output_coin_1.png) |
 | iron man arc reactor | ![arc](assets/output_arcreactor.png) |
-| celtic tattoo | ![tattoo](assets/output_tattoo.png) |
+| celtic tattoo | ![tattoo](assets/output_tatto_2.png) |
 
 ## Gradio Demo
 ![demo](assets/gradio_demo.png)
